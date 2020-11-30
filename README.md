@@ -1,8 +1,8 @@
 #  Notebooks for PyCoA release v1.0 <img src="https://github.com/coa-project/coa-project.github.io/blob/main/fig/logo-anime.gif" width="140px" align=bottom > 
 
-_April/November 2020_
+ⓒ[pycoa.fr](http://pycoa.fr) / _April/November 2020_
 
-## 
+Notebook illustration of the [PyCoA framework](https://github.com/coa-project/pycoa).
 
 Name | Short description | View on GitHub | View on Colab | View on NbViewer 
 --- | --- | --- | --- | ---
